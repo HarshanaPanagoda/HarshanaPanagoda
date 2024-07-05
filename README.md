@@ -17,6 +17,6 @@ Feel free to connect with me via:
 
 ## 🔗 Follow Me!
 [![portfolio](https://img.shields.io/badge/portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://harshanapanagoda.github.io/Portfolio-website/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/harshana-panagoda)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/harshana-panagoda)
 [![instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/harshana_panagoda?igsh=b2NoeXA4OHFjb3dj&utm_source=qr)
 [![behance](https://img.shields.io/badge/behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/harshanpanagod)
