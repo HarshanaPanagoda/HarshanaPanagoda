@@ -7,9 +7,6 @@ I'm a Computer Science enthusiast currently enrolled in IIT Sri Lanka, affiliate
 - **Mobile Application Development:** Exploring frameworks and tools to build responsive and efficient mobile applications.
 - **Continuous Learning:** Studying computer science fundamentals and software engineering principles to enhance my technical expertise.
 
-### Seeking Opportunities
-I am actively seeking internship opportunities to collaborate with leading software firms on challenging projects. I aim to utilize my technical skills and knowledge to devise effective solutions and contribute to impactful projects.
-
 ### Get in Touch
 Feel free to connect with me via:
 - **Email:** [harshanapanagoda2000@gmail.com](mailto:harshanapanagoda2000@gmail.com)
