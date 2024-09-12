@@ -10,7 +10,6 @@ I'm a Computer Science enthusiast currently enrolled in IIT Sri Lanka, affiliate
 ### Get in Touch
 Feel free to connect with me via:
 - **Email:** [harshanapanagoda2000@gmail.com](mailto:harshanapanagoda2000@gmail.com)
-- **Phone:** +94 70 492 0099
 
 ## 🔗 Follow Me!
 [![portfolio](https://img.shields.io/badge/portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://harshanapanagoda.github.io/Portfolio-website/)
